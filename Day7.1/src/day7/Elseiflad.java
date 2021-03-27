@@ -30,6 +30,7 @@ public class Elseiflad {
              {
         	System.out.println("please enter correct marks");
         }
+        System.out.println("changes done");
         
 	}
 }
